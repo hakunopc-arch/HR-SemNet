@@ -6,7 +6,7 @@ import os
 
 if __name__ == '__main__':
 
-    model = YOLO(r'ultralytics/cfg/models/HR-SemNet/yolov8x-p2o_lcsm.yaml')
+    model = YOLO(r'ultralytics/cfg/models/HR-SemNet/yolov8x-HR_SemNet.yaml')
     model.info()
 
     # model.train(
