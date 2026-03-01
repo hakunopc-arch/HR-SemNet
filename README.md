@@ -4,7 +4,7 @@ HR-SemNet: A High-Resolution Network for Enhanced Small Object Detection With Lo
 
 ### **1. Model Configuration（.yaml）**
 
-HR_SemNet\ultralytics\cfg\models\HR-SemNet
+HR_SemNet\ultralytics\cfg\models\HR-SemNet\
 
 ### **2. Custom Modules（.py）**
 
